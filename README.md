@@ -1,5 +1,5 @@
 ### Este projeto foi desenvolvido para projeto da DIO usando o tutorial feito pelo youtuber 
-<a href=https://www.youtube.com/watch?v=855KrFfF9-w“>Let's Program</a>
+[Let's Program](https://www.youtube.com/watch?v=855KrFfF9-w)
 
 ### Para rodar basta clonar, rodar npm install para as dependências e npm start para iniciar.
 
