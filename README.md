@@ -1,6 +1,8 @@
 ### Este projeto foi desenvolvido para projeto da DIO usando o tutorial feito pelo youtuber 
 [Let's Program](https://www.youtube.com/watch?v=855KrFfF9-w)
 
+[!Imagem do programa](https://github.com/AlexandreNoguez/only-assets/blob/main/AngularCart.png?raw=true)
+
 ### Para rodar basta clonar, rodar npm install para as dependências e npm start para iniciar.
 
 # AddToCart
